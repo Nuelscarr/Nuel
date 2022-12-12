@@ -5,6 +5,7 @@ import * as styles from './Title.module.css';
 const Title = (props) => {
   const {
     name,
+    nuel,
     subtitle,
     link,
     textLink,
